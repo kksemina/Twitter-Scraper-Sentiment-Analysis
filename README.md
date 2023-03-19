@@ -1,4 +1,4 @@
-# Twitter-Scraper-Sentiment-Analysis
+# Twitter Scraper Sentiment Analysis
 This is my final graduate capstone project (Dec 2021), where I have scraped twitter posts (using Tweeply python package) around big tech companies around earnings season and performed sentiment analysis (Vader python package) around the twitter data. Additionally, I then look at the relationship between sentiment analysis of tweets and stock price.
 
 The final product for this project is a Tableau Dashboard: https://public.tableau.com/app/profile/ksenia7036/viz/BigTechEarningsTwitterSentiment/Dashboard1
